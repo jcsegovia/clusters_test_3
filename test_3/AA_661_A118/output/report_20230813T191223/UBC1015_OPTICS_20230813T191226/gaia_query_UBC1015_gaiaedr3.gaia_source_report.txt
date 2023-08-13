@@ -1,0 +1,99 @@
+Sources file: ./test_3/AA_661_A118/output/gaia_query_UBC1015_gaiaedr3.gaia_source.csv
+
+Model parameters: {'algorithm': 'auto', 'cluster_method': 'xi', 'eps': None, 'leaf_size': 30, 'max_eps': inf, 'metric': 'minkowski', 'metric_params': None, 'min_cluster_size': 0.5, 'min_samples': 5, 'n_jobs': None, 'p': 2, 'predecessor_correction': True, 'xi': 0.01}
+
+Sources count: 565 +75%
+
+Reading ./test_3/AA_661_A118/output/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_75.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 485
+Silhoutte score: 0.2629652479680076
+
+
+Main plot ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_75_all_clusters.png
+Main csv ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_75_all_clusters.csv
+
+
+Cluster 0 -> ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_75_cluster_0.png
+Catalogued sources found in cluster 0: 497 (88.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 68
+
+
+Sources count: 565 +100%
+
+Reading ./test_3/AA_661_A118/output/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_100.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 538
+Silhoutte score: 0.30843923297781145
+
+
+Main plot ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_100_all_clusters.png
+Main csv ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_100_all_clusters.csv
+
+
+Cluster 0 -> ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_100_cluster_0.png
+Catalogued sources found in cluster 0: 565 (100.0%)
+Extra elements found: 27
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 565 +300%
+
+Reading ./test_3/AA_661_A118/output/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_300.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 1112
+Silhoutte score: 0.2317920697937347
+
+
+Main plot ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_300_all_clusters.png
+Main csv ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_300_all_clusters.csv
+
+
+Cluster 0 -> ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_300_cluster_0.png
+Catalogued sources found in cluster 0: 565 (100.0%)
+Extra elements found: 583
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 565 +500%
+
+Reading ./test_3/AA_661_A118/output/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_500.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 1444
+Silhoutte score: 0.26466297442965614
+
+
+Main plot ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_500_all_clusters.png
+Main csv ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_500_all_clusters.csv
+
+
+Cluster 0 -> ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_500_cluster_0.png
+Catalogued sources found in cluster 0: 565 (100.0%)
+Extra elements found: 1381
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 565 +1000%
+
+Reading ./test_3/AA_661_A118/output/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 2542
+Silhoutte score: 0.24628005229835526
+
+
+Main plot ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_1000_all_clusters.csv
+
+
+Cluster 0 -> ./test_3/AA_661_A118/output/report_20230813T191223/UBC1015_OPTICS_20230813T191226/gaia_query_UBC1015_gaiaedr3.gaia_source_sample_1000_cluster_0.png
+Catalogued sources found in cluster 0: 565 (100.0%)
+Extra elements found: 3108
+Catalogued sources not found in cluster: 0
+
+
